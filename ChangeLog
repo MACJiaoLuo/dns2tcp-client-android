@@ -1,3 +1,6 @@
+Version 0.5.3
+	Fixed "dangling-else" compiler issue
+
 Version 0.5.2
 	Removal of left OpenSSL includes
 
