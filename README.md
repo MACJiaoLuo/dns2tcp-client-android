@@ -56,7 +56,6 @@ File configuration :
 # Known Bugs
 
 DNS desynchronisation
-dns2tcpd server not supported on Windows
 
 # TODO
 
